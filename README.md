@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Behlül Mansur Çıldır</h1>
-<h3 align="center">I am developing myself as Backend Developer</h3>
+<h3 align="center">I am developing myself as Java Backend Developer</h3>
 
 - 🌱 I’m currently learning **Java-Spring Boot**
 
