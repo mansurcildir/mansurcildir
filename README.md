@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Behlül Mansur Çıldır</h1>
 <h3 align="center">I am developing myself as Java Backend Developer</h3>
 
-- 🌱 I’m currently learning **Java-Spring Boot**
+- 🌱 I’m currently learning **Java-Spring Boot and JS/TS node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mansur74](https://github.com/Mansur74)
 
