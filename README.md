@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Behlül Mansur Çıldır</h1>
 <h3 align="center">I am developing myself as Fullstack Developer</h3>
 
-- 🌱 I’m currently working on **Java, Spring Boot, JS/TS, Svelte.js, Angular.js, React.js**
+- 🌱 I’m currently working on **Java, Spring Boot, JS/TS, Svelte.js, Angular.js, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mansur74](https://github.com/Mansur74)
 
