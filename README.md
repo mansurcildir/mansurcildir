@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently working on **Java, Spring Boot, JS/TS, Svelte.js, Angular.js, Kubernetes**
 
+- 🤝 I’m looking for help with learning modern and new technologies
+
 - 👨‍💻 All of my projects are available at [https://github.com/Mansur74](https://github.com/Mansur74)
 
 - 📫 How to reach me **mansurcildir@hotmail.com**
