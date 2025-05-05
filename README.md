@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansurcildir" alt="mansurcildir" /></a> </p>
 
-- 🌱 I’m currently working on **Java, Spring Boot, JS/TS, Svelte.js, Angular.js, Kubernetes**
+- 🌱 I’m currently working on **Java, Spring Boot, JS/TS, Svelte.js, Angular.js, Docker, Kubernetes, DigitalOcean and Cloud Computing**
 
 - 🤝 I’m looking for help with learning modern and new technologies
 
