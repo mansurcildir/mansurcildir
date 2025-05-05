@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mansurcildir](https://github.com/mansurcildir)
 
-- 📫 How to reach me **mansurcildir@hotmail.com**
+- 📫 How to reach me **mansurcildir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
